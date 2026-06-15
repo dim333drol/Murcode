@@ -13,13 +13,14 @@
   
 ## Что есть в проекте
 
-`index.html` - главная страница
-`about.html` - информация о проекте
-`team.html` - участники
-`journal.html` - журнал
-`resources.html` - ресурсы
-`css/style.css` - стили
-`img/` - картинки и иконки
+- `index.html` - главная страница
+- `about.html` - информация о проекте
+- `team.html` - участники
+- `journal.html` - журнал
+- `resources.html` - ресурсы
+- `css/style.css` - стили
+- `img/` - картинки и иконки
+
 
 ## Как открыть
 Нужно просто открыть файл `index.html` в браузере.
